@@ -4,7 +4,7 @@ A frontend clone of the ChatGPT interface built using **HTML and CSS**. The proj
 
 ## 🚀 Live Preview
 
-[**View Live Demo →**](http://aradhya.lusa.co.in/CSS-Project-ChatGPT-CLone/)
+[**View Live Demo →**](http://aradhya.lusa.co.in/CSS-Project-ChatGPT-Clone/)
 
 ## ✨ Features
 
